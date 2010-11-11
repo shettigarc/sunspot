@@ -1,10 +1,14 @@
 = Sunspot::Rails for Distributed Search
 
-=== Checkout the original README for installation and setup instrunctions
-https://github.com/shettigarc/sunspot/tree/master/sunspot_rails/
-
 You might want to search from multiple cores in one call if you had solr 
 index distributed across more than one cores (solr instances)
+
+Check this out to learn more about distributed search using shards - http://wiki.apache.org/solr/DistributedSearch
+
+== Installation Instructions from the original README
+*	https://github.com/outoftime/sunspot
+*	https://github.com/outoftime/sunspot/tree/master/sunspot_rails/
+
 
 == Sample sunspot.yml for distributed search
 
@@ -27,16 +31,11 @@ development:
     shards: "localhost:8982/solr,localhost:8983/solr"
 
 
-'shards' is a solr request query parameter. Check this out http://wiki.apache.org/solr/DistributedSearch
-
 == Gemfile for Rails 3 app
 
 The Gemfile should include sunspot_rails from this repo. 
 
 gem 'sunspot_rails', :git => 'git://github.com/shettigarc/sunspot.git'
-
-
-My Blog: http://shettigarc.com/blogs
 
 
 == Further Reading
@@ -47,3 +46,6 @@ API, but almost all of the functionality you use in Sunspot::Rails is
 implemented in Sunspot.
 
 
+== My Blog 
+
+http://shettigarc.com/blogs

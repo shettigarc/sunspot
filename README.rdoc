@@ -1,16 +1,19 @@
 = Sunspot
 
-=== Forked from:
-https://github.com/outoftime/sunspot
-http://outoftime.github.com/sunspot
+== Original Sunspot
+
+*	https://github.com/outoftime/sunspot
+*	http://outoftime.github.com/sunspot
 
 
-=== List of features:
-* Distributed Solr Search on sunspot_rails
+== List of features
+
+* Distributed Solr Search (sunspot_rails specific)
 * TBD
 
 
-=== See sunspot_rails README for details
+== Configure your rails app for distributed search
 
+Check this out -
 https://github.com/shettigarc/sunspot/tree/master/sunspot_rails/
 
