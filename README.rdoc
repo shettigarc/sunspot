@@ -1,33 +1,16 @@
 = Sunspot
 
 === Forked from:
+https://github.com/outoftime/sunspot
 http://outoftime.github.com/sunspot
 
+
 === List of features:
-* Distributed Solr Search
-* 
+* Distributed Solr Search on sunspot_rails
+* TBD
 
 
-== Contributors of original source
+=== See sunspot_rails README for details
 
-* Mat Brown (mat@patch.com)
-* Peer Allan (peer.allan@gmail.com)
-* Dmitriy Dzema (dima@dzema.name)
-* Benjamin Krause (bk@benjaminkrause.com)
-* Marcel de Graaf (marcel@slashdev.nl)
-* Brandon Keepers (brandon@opensoul.org)
-* Peter Berkenbosch (peterberkenbosch@me.com)
-* Brian Atkinson
-* Tom Coleman (tom@thesnail.org)
-* Matt Mitchell (goodieboy@gmail.com)
-* Nathan Beyer (nbeyer@gmail.com)
-* Kieran Topping
-* Nicolas Braem (nicolas.braem@gmail.com)
-* Jeremy Ashkenas (jashkenas@gmail.com)
-* Dylan Vaughn (dylanvaughn@yahoo.com)
-* Brian Durand (brian@embellishedvisions.com)
-* Sam Granieri (sam@samgranieri.com)
+https://github.com/shettigarc/sunspot/tree/master/sunspot_rails/
 
-== License
-
-Sunspot is distributed under the MIT License, copyright (c) 2008-2009 Mat Brown
